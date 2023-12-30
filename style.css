@@ -31,7 +31,12 @@ h3 {
     
     header {
         text-align: center;
-        margin: auto 2em;
+        margin: auto 2em; /* property is setting the
+         top and bottom margins to auto, 
+         which horizontally centers the header 
+         itself, and the left and right margins 
+         to 2em, providing spacing on the left 
+         and right sides of the header element.*/
     }
     
     section {
